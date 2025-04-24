@@ -1,4 +1,3 @@
-
 package inicio;
 
 import java.time.LocalDate;
@@ -68,7 +67,7 @@ public class Funcionario extends Pessoa implements Calculavel {
 
     @Override
     public String toString() {
-        return nome + ";" + cpf + ";" +
+        return getNome() + ";" + getCpf() + ";" +
                String.format("%.2f", descontoINSS) + ";" +
                String.format("%.2f", descontoIR) + ";" +
                String.format("%.2f", calcularSalarioLiquido());

@@ -1,4 +1,3 @@
-
 package inicio;
 
 public interface Calculavel {

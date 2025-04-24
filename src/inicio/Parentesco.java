@@ -1,4 +1,3 @@
-
 package inicio;
 
 public enum Parentesco {
