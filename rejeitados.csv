@@ -1,0 +1,4 @@
+11111111111;Erro ao inserir no banco: ERRO: duplicar valor da chave viola a restrição de unicidade "funcionario_cpf_key"
+  Detalhe: Chave (cpf)=(11111111111) já existe.
+44444444444;Erro ao inserir no banco: ERRO: duplicar valor da chave viola a restrição de unicidade "funcionario_cpf_key"
+  Detalhe: Chave (cpf)=(44444444444) já existe.
