@@ -33,7 +33,7 @@ Sistema desenvolvido na disciplina de **Programação Orientada a Objetos (2025.
 ## 📄 Banco de Dados
 
 - PostgreSQL com 3 tabelas: `funcionario`, `dependente`, `folha_pagamento`
-- Script SQL disponível na pasta `/database`
+- Script SQL disponível na pasta `/bancoDeDados`
 
 ## ▶️ Como Executar
 
@@ -54,8 +54,8 @@ Sistema desenvolvido na disciplina de **Programação Orientada a Objetos (2025.
 
 ## 👥 Integrantes
 
-- Caroline Brand Barreto  
+- Caroline Brand  
 - João Vitor Amaral  
 - Juliana Périco  
-- Maria Vitória Martelli Borges  
-- Patrícia Sanches Franco
+- Maria Vitória Martelli  
+- Patrícia Sanches 
